@@ -191,7 +191,7 @@ const ContactSection = () => {
                     <h4 className="font-medium mb-4">Connect with me</h4>
                     <div className="flex gap-4">
                       <motion.a 
-                        href="https://github.com/jitujina0" 
+                        href="https://github.com/rajakumar" 
                         target="_blank" 
                         rel="noopener noreferrer"
                         className="bg-secondary/10 p-3 rounded-full text-foreground hover:text-primary transition-colors"

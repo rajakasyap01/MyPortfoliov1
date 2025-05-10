@@ -45,7 +45,7 @@ const Footer = () => {
           >
             <div className="flex items-center gap-6">
               <motion.a 
-                href="https://github.com/jitujina0" 
+                href="https://github.com/rajakumar" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-secondary-foreground/80 hover:text-secondary-foreground transition-colors relative group"
@@ -105,7 +105,7 @@ const Footer = () => {
           className="border-t border-secondary-foreground/20 mt-8 pt-8 text-center"
         >
           <p className="text-secondary-foreground/60">
-            © {new Date().getFullYear()} Jitendra Yadav. All rights reserved.
+            © {new Date().getFullYear()} Rajakumar. All rights reserved.
           </p>
         </motion.div>
       </div>

@@ -109,7 +109,7 @@ const HeroSection = () => {
               </motion.a>
 
               <motion.a 
-                href="https://www.linkedin.com/in/jitendra-yadav-014718195/" 
+                href="https://www.linkedin.com/in/raja-kumar-469534331" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-foreground hover:text-primary transition-colors relative group"
@@ -131,7 +131,7 @@ const HeroSection = () => {
               </motion.a>
 
               <motion.a 
-                href="https://x.com/JeetuYa12907134" 
+                href="https://x.com/rajakumar176387" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-foreground hover:text-primary transition-colors relative group"
