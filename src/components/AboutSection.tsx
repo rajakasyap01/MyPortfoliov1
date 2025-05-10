@@ -1,14 +1,4 @@
-/**
- * AboutSection Component
- * 
- * Displays the about section of the portfolio including:
- * - Personal information and introduction
- * - Contact details
- * - Skills with progress indicators
- * - Professional background
- * 
- * @component
- */
+
 
 import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
