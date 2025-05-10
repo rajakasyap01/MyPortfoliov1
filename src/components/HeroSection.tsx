@@ -89,7 +89,7 @@ const HeroSection = () => {
             >
               {/* Social links with enhanced animations */}
               <motion.a 
-                href="https://github.com/jitujina0" 
+                href="https://github.com/rajakumar" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-foreground hover:text-primary transition-colors relative group"
